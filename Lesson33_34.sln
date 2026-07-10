@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.SingleResponsibility", "Lesson33_34\1.SingleResponsibility.csproj", "{38646978-F2C5-48F1-9B42-B55A8CF5E6BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "Lesson33_34\SingleResponsibility.csproj", "{38646978-F2C5-48F1-9B42-B55A8CF5E6BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

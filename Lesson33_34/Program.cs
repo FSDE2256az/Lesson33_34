@@ -1,13 +1,15 @@
-﻿namespace _1.SingleResponsibility;
+﻿using SingleResponsibility.BadCase;
+
+namespace SingleResponsibility;
 
 public class Program
 {
     static void Main(string[] args)
     {
+        var products = new Product();
 
+        products.DeleteProduct(1);
 
-
-
-        Console.WriteLine("Hello, World!");
+        products.PrintProductList();
     }
 }
